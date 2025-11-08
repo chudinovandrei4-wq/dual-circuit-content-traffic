@@ -1,5 +1,5 @@
 # VIRTUAL IQ BIO - Operating System for Interactive Identity Generators
-
+https://docs.google.com/document/d/1PMgn_Js3jrVGWyV0sZlTBRZOkk9HemchcXKAmzU7GWg/edit?usp=drivesdk
 An operating system for interactive identity generators that functions as both Google 2.0 interactive search and a secure circuit for banking/government content transfer, protected against viruses and phishing.
 
 ## Core Concept
